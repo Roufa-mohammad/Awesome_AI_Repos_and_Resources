@@ -11,6 +11,7 @@
 
 4. [Matterport Mask R-CNN](https://github.com/matterport/Mask_RCNN), is a tensorflow implementation of Mask-RCNN. Pretty easy to use. REsults below
 ![](images/detection_final.png)
+<img src = 'images/detection_final.png' width = '400', height = '400'/>
 
 5. [Face-api.js](https://github.com/justadudewhohacks/face-api.js), is a java script for Face dtection, Recognition, Emotion Detection, Age, Gender detection and for landmarks too. more [here](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
 
