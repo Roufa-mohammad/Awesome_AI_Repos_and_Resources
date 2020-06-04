@@ -1,4 +1,4 @@
-This REPO contains all the Github repositories that i found useful in the process of Learning and Implementing AI Usecases in our company.
+### This REPO contains all the Github repositories that i found useful in the process of Learning and Implementing AI Usecases.
 
 1. [LibfaceID](https://github.com/richmondu/libfaceid), is implemented as a one stop for detection, liveness check, face recognition and emotion detection.
 ![](images/libfaceid.jpg)
