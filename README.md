@@ -14,12 +14,25 @@
 
 5. [Face-api.js](https://github.com/justadudewhohacks/face-api.js), is a java script for Face dtection, Recognition, Emotion Detection, Age, Gender detection and for landmarks too. more [here](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
 
+6. [DeepFace](https://github.com/ildoonet/deepface) is a face detection and recognition model using tensorflow with mobilenet and ssd
+
+7. [FaceNet](https://github.com/davidsandberg/facenet), for Face Recognition in Tensorflow with 10K stars
+
+8. [CenterMask2](https://github.com/youngwanLEE/centermask2) on top of Detectron2, is way faster and lighter than Mask R-CNN using Pytorch.
+
+
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
 - More related to TExt to Speech is [here](https://github.com/as-ideas)
+
 2. [Voice Activity Detection](https://github.com/filippogiruzzi/voice_activity_detection) to Classify Noise or Speech audio using tensorflow
+
+3. Mozilla [Deepspeech](https://github.com/mozilla/DeepSpeech) for Speech to Text with close results.
+
+4. [DeepXI](https://github.com/anicolson/DeepXi) for Noise Supression
+
 
 ### Text
 1. [Text summarizer](https://github.com/as-ideas/headliner)
