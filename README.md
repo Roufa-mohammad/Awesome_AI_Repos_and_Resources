@@ -23,6 +23,8 @@
 9. [Genetic drawing](https://github.com/anopara/genetic-drawing) just with python, opencv, matplotlib in jupyter notebook has impressive results, check below
 <img src ='images/img2.gif' width = '500' height = '400'>
 
+10. [3D Instagram](https://github.com/cyrildiagne/instagram-3d-photo), is a context aware layered Depth inpainting.
+<img src = 'images/demo.gif>
 
 
 ### Audio
