@@ -20,6 +20,9 @@
 
 8. [CenterMask2](https://github.com/youngwanLEE/centermask2) on top of Detectron2, is way faster and lighter than Mask R-CNN using Pytorch.
 
+9. [Genetic drawing](https://github.com/anopara/genetic-drawing) just with python, opencv, matplotlib in jupyter notebook has impressive results, check below
+<img src ='images/img2.gif' width = '500' height = '400'>
+
 
 
 ### Audio
