@@ -25,6 +25,8 @@
 
 10. [3D Instagram](https://github.com/cyrildiagne/instagram-3d-photo), is a context aware layered Depth inpainting.
 <img src = 'images/demo.gif>
+            
+11. [Efficient Panoptic Segmentation](http://panoptic.cs.uni-freiburg.de/), is a state of the Model for Panoptic Segmentation from cvpr 2020.
 
 
 ### Audio
