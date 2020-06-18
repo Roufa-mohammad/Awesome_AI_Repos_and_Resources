@@ -48,3 +48,4 @@
 ### OpenCV
 1. [Tennis shot counter](https://github.com/prateekjoshi565/Tennis-Shot-Counter), is a real time score counter on your wall everytime you hit a wall in particular spot while playing tennis.
 
+### Learn how to contribute to Open source projects in Github [here](https://www.dataschool.io/how-to-contribute-on-github/)
