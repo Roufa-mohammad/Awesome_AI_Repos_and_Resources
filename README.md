@@ -28,6 +28,9 @@
             
 11. [Efficient Panoptic Segmentation](http://panoptic.cs.uni-freiburg.de/), is a state of the Model for Panoptic Segmentation from cvpr 2020.
 
+12. [SRCNN](https://debuggercafe.com/image-super-resolution-using-deep-learning-and-pytorch/) for super resolution of images in pytorch along with implementation.
+
+
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
