@@ -45,3 +45,14 @@ Below is a scratch pad you can open for instant code checks
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) License badge here
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
+#### 10. Blockquotes
+Repo owner says 
+  > quote1 should go here
+
+
+#### 11. List
+- list1
+- list2
+   - list 3
+      - list 4
