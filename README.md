@@ -43,6 +43,8 @@
 
 4. [DeepXI](https://github.com/anicolson/DeepXi) for Noise Supression
 
+5. [Dual RNN](https://github.com/JusperLee/Dual-Path-RNN-Pytorch) for Speech seperation in pytorch, samples [here](https://www.likai.show/Pure-Audio/index.html)
+
 
 ### Text
 1. [Text summarizer](https://github.com/as-ideas/headliner)
