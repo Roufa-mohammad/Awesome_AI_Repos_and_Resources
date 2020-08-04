@@ -30,7 +30,7 @@
 
 12. [SRCNN](https://debuggercafe.com/image-super-resolution-using-deep-learning-and-pytorch/) for super resolution of images in pytorch along with implementation.
 
-
+13. High performance Face Recognition library in pytorch [here](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
