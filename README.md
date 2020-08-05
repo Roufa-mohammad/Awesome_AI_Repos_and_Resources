@@ -47,6 +47,7 @@
 
 6. [Tacotran2 ](https://github.com/NVIDIA/tacotron2/blob/master/inference.ipynb) [1](https://developer.nvidia.com/blog/generate-natural-sounding-speech-from-text-in-real-time/) [2](https://google.github.io/tacotron/publications/tacotron2/index.html) [3](https://pytorch.org/hub/nvidia_deeplearningexamples_tacotron2/) [4](https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/Tacotron2_and_WaveNet_text_to_speech_demo.ipynb) for Text to speech, audio samples [here](https://nv-adlr.github.io/WaveGlow)
 
+7. For Speech Denoise/Enhancement [[1]](https://sthalles.github.io/practical-deep-learning-audio-denoising/), [[2]](https://sthalles.github.io/practical-deep-learning-audio-denoising/).
 
 ### Text
 1. [Text summarizer](https://github.com/as-ideas/headliner)
