@@ -51,6 +51,7 @@
 ### Text
 1. [Text summarizer](https://github.com/as-ideas/headliner)
 2. [bentrevett pytorch seq2seq](https://github.com/bentrevett/pytorch-seq2seq), is a implementation of few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
+3. [Text summarization for meetings and conferences](https://github.com/JudeLee19/HMNet-End-to-End-Abstractive-Summarization-for-Meetings) in pytorch. results here in last page of research [here](https://arxiv.org/pdf/2004.02016.pdf)
 
 ### OpenCV
 1. [Tennis shot counter](https://github.com/prateekjoshi565/Tennis-Shot-Counter), is a real time score counter on your wall everytime you hit a wall in particular spot while playing tennis.
