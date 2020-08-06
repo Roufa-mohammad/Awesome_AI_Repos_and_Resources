@@ -32,6 +32,9 @@
 
 13. High performance Face Recognition library in pytorch [here](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
 
+14. Image to Image translation with pytorch using CycleGAN [here](https://github.com/taesungp/contrastive-unpaired-translation)
+![](images/patchnce.gif)
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
@@ -58,4 +61,6 @@
 ### OpenCV
 1. [Tennis shot counter](https://github.com/prateekjoshi565/Tennis-Shot-Counter), is a real time score counter on your wall everytime you hit a wall in particular spot while playing tennis.
 
+### MAths
+1. [Just the Maths](https://archive.uea.ac.uk/jtm/contents.htm), Quick notes on almost every topic in Maths
 ### Learn how to contribute to Open source projects in Github [here](https://www.dataschool.io/how-to-contribute-on-github/)
