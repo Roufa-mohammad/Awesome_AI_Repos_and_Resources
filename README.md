@@ -35,6 +35,8 @@
 14. Image to Image translation with pytorch using CycleGAN [here](https://github.com/taesungp/contrastive-unpaired-translation)
 ![](images/patchnce.gif)
 
+15. [MMDetection](https://github.com/open-mmlab/mmdetection), A winner tool for [kaggle Wheat detection competition](https://www.kaggle.com/c/global-wheat-detection/discussion/172569)
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
