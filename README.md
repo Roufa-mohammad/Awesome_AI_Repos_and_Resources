@@ -37,6 +37,8 @@
 
 15. [MMDetection](https://github.com/open-mmlab/mmdetection), A winner tool for [kaggle Wheat detection competition](https://www.kaggle.com/c/global-wheat-detection/discussion/172569)
 
+16. Image manipulation detection [[paper1]](https://arxiv.org/pdf/1911.08217v3.pdf) [[code1]](https://github.com/HuizhouLi/Constrained-R-CNN) [[paper2]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf) [[code2]](https://github.com/LarryJiang134/Image_manipulation_detection)
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
