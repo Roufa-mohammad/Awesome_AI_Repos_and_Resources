@@ -41,7 +41,7 @@
 
 17. Low light Image enhancement in [[pytorch]](https://github.com/Li-Chongyi/Zero-DCE) and in [[tensorflow]](https://github.com/tuvovan/Zero_DCE_TF)
 ![INPUT](images/3.bmp) | ![OUTPUT](images/3_4_700.bmp) |
-|:---:|:---:|
+
 
 
 ### Audio
