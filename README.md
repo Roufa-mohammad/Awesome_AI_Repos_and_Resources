@@ -42,6 +42,9 @@
 17. Low light Image enhancement in [[pytorch]](https://github.com/Li-Chongyi/Zero-DCE) and in [[tensorflow]](https://github.com/tuvovan/Zero_DCE_TF)
 <table><tr><td><img src="images/3.bmp"></td></tr><tr><td><img src="images/3_4_700.bmp"></td></tr></table>
 
+18. [[Darknet]](https://github.com/AlexeyAB/darknet) for detecting objects in the Dark using YOLO V4, python, coco, opencv
+
+
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
