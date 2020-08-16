@@ -44,6 +44,9 @@
 
 18. [[Darknet]](https://github.com/AlexeyAB/darknet) for detecting objects in the Dark using YOLO V4, python, coco, opencv
 
+19. [[Photo_to_Cartoon]](https://github.com/minivision-ai/photo2cartoon) with pytorch
+![](images/results.png)
+
 
 
 ### Audio
