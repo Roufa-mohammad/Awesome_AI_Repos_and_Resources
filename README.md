@@ -48,7 +48,7 @@
 ![](images/results.png)
 
 20. GAN for SuperResolution [[TecoGAN]](https://github.com/thunil/TecoGAN) 
-![](tecoGAN-spider.gif)
+![](images/tecoGAN-spider.gif)
 
 
 
