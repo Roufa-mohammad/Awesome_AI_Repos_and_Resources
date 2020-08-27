@@ -47,6 +47,9 @@
 19. [[Photo_to_Cartoon]](https://github.com/minivision-ai/photo2cartoon) with pytorch
 ![](images/results.png)
 
+20. GAN for SuperResolution [[TecoGAN]](https://github.com/thunil/TecoGAN) 
+![](tecoGAN-spider.gif)
+
 
 
 ### Audio
