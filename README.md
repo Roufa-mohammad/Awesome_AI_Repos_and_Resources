@@ -82,3 +82,4 @@
 1. [Just the Maths](https://archive.uea.ac.uk/jtm/contents.htm), Quick notes on almost every topic in Maths
 2. Calculus for Deep learning by jeremyhoward [here](https://arxiv.org/pdf/1802.01528v2.pdf)
 ### Learn how to contribute to Open source projects in Github [here](https://www.dataschool.io/how-to-contribute-on-github/)
+### Model compression with pruning [[here]](https://www.wadhwaniai.org/2020/09/09/compression-deployment/)
