@@ -50,6 +50,8 @@
 20. GAN for SuperResolution [[TecoGAN]](https://github.com/thunil/TecoGAN) 
 ![](images/tecoGAN-spider.gif)
 
+21. High Resolution network for photo realistic transformation [[here]](https://github.com/limingcv/Photorealistic-Style-Transfer)
+
 
 
 ### Audio
