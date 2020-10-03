@@ -52,6 +52,10 @@
 
 21. High Resolution network for photo realistic transformation [[here]](https://github.com/limingcv/Photorealistic-Style-Transfer)
 
+22. Bringing Old photos back to life [[here]](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+![](images/old_to_life.jpg)
+
+
 
 
 ### Audio
