@@ -83,6 +83,7 @@
 
 ### OpenCV
 1. [Tennis shot counter](https://github.com/prateekjoshi565/Tennis-Shot-Counter), is a real time score counter on your wall everytime you hit a wall in particular spot while playing tennis.
+2. [CDeC Network](https://github.com/mdv3101/CDeCNet) for table detection in Documents by IIIT Hyderabad
 
 ### MAths
 1. [Just the Maths](https://archive.uea.ac.uk/jtm/contents.htm), Quick notes on almost every topic in Maths
