@@ -55,7 +55,7 @@
 22. Bringing Old photos back to life [[here]](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 ![](images/old_to_life.jpg)
 
-
+23. [[Transformer Encoder visualized]](https://github.com/mertensu/transformer-tutorial/blob/master/transformer_encoder.ipynb)
 
 
 ### Audio
