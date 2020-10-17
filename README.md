@@ -75,6 +75,8 @@
 
 7. For Speech Denoise/Enhancement [[1]](https://sthalles.github.io/practical-deep-learning-audio-denoising/), [[2]](https://towardsdatascience.com/speech-enhancement-with-deep-learning-36a1991d3d8d), [[3]](https://labs.imaginea.com/shabda-a-neural-speech-denoiser/), [[4]](https://paperswithcode.com/paper/phase-aware-speech-enhancement-with-deep-1#code), [[5]](https://devpost.com/software/crisp-speech), [[6]](https://jmvalin.ca/demo/rnnoise/), [[7]](https://github.com/mosheman5/DNP)
 
+8. Speech seperation by localization by UOW [[here]](https://grail.cs.washington.edu/projects/cone-of-silence/)
+
 
 ### Text
 1. [Text summarizer](https://github.com/as-ideas/headliner)
