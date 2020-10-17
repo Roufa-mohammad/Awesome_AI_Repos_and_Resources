@@ -79,6 +79,8 @@
 
 8. Speech seperation by localization by UOW [[here]](https://grail.cs.washington.edu/projects/cone-of-silence/)
 
+9. [NVIDIA Nemo](https://github.com/NVIDIA/NeMo) is a toolkit from NVIDIA for COnversational AI applications like Speech synthesis, ASR, Speech to Text, and NLP
+
 
 ### Text
 1. [Text summarizer](https://github.com/as-ideas/headliner)
