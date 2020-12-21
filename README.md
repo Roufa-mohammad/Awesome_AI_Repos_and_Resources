@@ -60,6 +60,9 @@
 24. [Background matting](https://github.com/senguptaumd/Background-Matting), The world is a green screen in both pytorch and tensorflow and [Unofficial implementation of Background matting in pytorch](https://github.com/foamliu/Deep-Image-Matting-PyTorch)
 ![background matting image](https://camo.githubusercontent.com/89ad795b21ae7c739811372739e53985b1e7feab/68747470733a2f2f686f6d65732e63732e77617368696e67746f6e2e6564752f7e736f756d796139312f70617065725f7468756d626e61696c732f6d617474696e672e706e67)
 
+25. Context aware layered depth inpainting [here](https://github.com/vt-vl-lab/3d-photo-inpainting)
+![layered inpainting image](images/inpainting.jpeg)
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
