@@ -63,6 +63,9 @@
 25. Context aware layered depth inpainting [here](https://github.com/vt-vl-lab/3d-photo-inpainting)
 ![layered inpainting image](images/inpainting.jpeg)
 
+26. Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks" (ICPR 2020)[https://github.com/wenwenyu/PICK-pytorch]
+![pick.pytorch](images/keyextract.png)
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
