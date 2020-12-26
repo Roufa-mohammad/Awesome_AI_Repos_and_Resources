@@ -1,5 +1,7 @@
 ### This REPO contains all the Github repositories that i found useful in the process of Learning and Implementing AI Usecases.
 
+##### Rahul agarwal list of [resources](https://github.com/MLWhiz/data_science_blogs/tree/master/resources) that helped him
+
 1. [LibfaceID](https://github.com/richmondu/libfaceid), is implemented as a one stop for detection, liveness check, face recognition and emotion detection.
 ![](images/libfaceid.jpg)
 ![](images/libfaceid4.jpg)
