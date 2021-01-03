@@ -68,6 +68,8 @@
 26. Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks" (ICPR 2020)[https://github.com/wenwenyu/PICK-pytorch]
 ![pick.pytorch](images/keyextract.png)
 
+27. Vision Transformer in Pytorch [here](https://github.com/lucidrains/vit-pytorch) and explained nicely [here](https://jacobgil.github.io/deeplearning/vision-transformer-explainability)
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
