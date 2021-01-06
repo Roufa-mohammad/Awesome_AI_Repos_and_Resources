@@ -70,6 +70,9 @@
 
 27. Vision Transformer in Pytorch [here](https://github.com/lucidrains/vit-pytorch) and explained nicely [here](https://jacobgil.github.io/deeplearning/vision-transformer-explainability)
 
+28. MMTracking(Single object tracking, Multiple Object tracking) [here](https://github.com/open-mmlab/mmtracking)
+![images/]()
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
