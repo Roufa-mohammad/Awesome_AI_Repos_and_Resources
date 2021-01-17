@@ -68,7 +68,7 @@
 26. Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks" (ICPR 2020)[https://github.com/wenwenyu/PICK-pytorch]
 ![pick.pytorch](images/keyextract.png)
 
-27. Vision Transformer in Pytorch [here](https://github.com/lucidrains/vit-pytorch) and explained nicely [here](https://jacobgil.github.io/deeplearning/vision-transformer-explainability)
+27. Vision Transformer in Pytorch [here](https://github.com/lucidrains/vit-pytorch) and explained nicely [here](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) and VIT on Cifar [here](https://github.com/tahmid0007/VisionTransformer/blob/main/Google_ViT.py)
 
 28. MMTracking(Single object tracking, Multiple Object tracking) [here](https://github.com/open-mmlab/mmtracking)
 ![mmtrack](images/mmtrack.gif)
