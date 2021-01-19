@@ -73,8 +73,10 @@
 28. MMTracking(Single object tracking, Multiple Object tracking) [here](https://github.com/open-mmlab/mmtracking)
 ![mmtrack](images/mmtrack.gif)
 
-29. Tensorflow StyleGAN2 [here](https://github.com/nikhiltiru/stylegan2) 
+29. Tensorflow StyleGAN2 [here](https://github.com/nikhiltiru/stylegan2)
 ![faceapp kind age](images/age.gif)
+
+30. Resnet Inspired Identity function involved RepVGGNet with More Accuracies than Resnet [[here]](https://github.com/DingXiaoH/RepVGG)
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
