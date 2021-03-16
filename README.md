@@ -119,3 +119,9 @@
 
 
 ### Spark AR course [[here]](https://sparkar.facebook.com/blog/introducing-spark-ar-curriculum/)
+
+### Master Pytorch
+- [NN Programming and Deeplearning with Pytorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+- [DeepLearningWizard Deep learning course](https://www.deeplearningwizard.com/deep_learning/intro/)
+- [Dive into Deep learning from D2L.ai](http://www.d2l.ai/)
+- [Official Deep learning with pytorch book](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
