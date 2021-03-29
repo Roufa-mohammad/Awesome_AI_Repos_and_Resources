@@ -78,6 +78,8 @@
 
 30. Resnet Inspired Identity function involved RepVGGNet with More Accuracies than Resnet [[here]](https://github.com/DingXiaoH/RepVGG)
 
+31. [Tamming Transformers](https://github.com/CompVis/taming-transformers) for High Resolution Images 
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
