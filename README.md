@@ -80,6 +80,8 @@
 
 31. [Tamming Transformers](https://github.com/CompVis/taming-transformers) for High Resolution Images 
 
+32. [VisTR](https://github.com/Epiphqny/VisTR) End-to-End Video Instance Segmentation with Transformers
+
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
 - Audio results [here](https://as-ideas.github.io/TransformerTTS/)
