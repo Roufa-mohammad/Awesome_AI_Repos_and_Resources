@@ -84,6 +84,8 @@
 
 33. [Layout Praser](https://layout-parser.github.io/) with [Example1](https://layout-parser.readthedocs.io/en/latest/example/load_coco/index.html) and [Example2](https://layout-parser.readthedocs.io/en/latest/example/parse_ocr/index.html)
 ![Layout Parser](images/Lp.png)
+            
+34. Detect the only object you want to identify in Image [- MDETR](https://ashkamath.github.io/mdetr_page/)
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
