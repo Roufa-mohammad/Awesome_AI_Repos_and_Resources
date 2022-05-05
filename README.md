@@ -89,6 +89,8 @@
             
 35. Pose detection with 33 keypoints to run even in Browser from TensorflowJS. Link [here](https://blog.tensorflow.org/2021/05/high-fidelity-pose-tracking-with-mediapipe-blazepose-and-tfjs.html)
 ![TensorflowJS Pose Detection](images/mediapipe_pose_det.gif)
+            
+36. Eye Tracking FOR VR [here](https://github.com/SummerSigh/TheVrMLEyeToolbox)
 
 ### Audio
 1. [Transformer TTS](https://github.com/as-ideas/TransformerTTS), is implementation of Non Auto regressive transformer based Neural network for Text to Speech.
