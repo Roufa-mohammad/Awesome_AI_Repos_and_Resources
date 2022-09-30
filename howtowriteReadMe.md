@@ -2,8 +2,9 @@
 - [X] you can add check box using square bracket and "X" in square bracket to mark it.
 
 #### 2. Add syntax like this
+
 ```
-python
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
