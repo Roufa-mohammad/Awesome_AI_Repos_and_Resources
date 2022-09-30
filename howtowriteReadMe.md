@@ -4,7 +4,7 @@
 #### 2. Add syntax like this
 #### 3. This tutorial is really hepled me and I have Few Doubts.added some text
 ```
-python
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
